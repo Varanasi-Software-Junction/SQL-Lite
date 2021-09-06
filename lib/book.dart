@@ -14,7 +14,7 @@ class Book {
   }
 
 // Implement toString to make it easier to see information about
-// each dog when using the print statement.
+// each book.
   @override
   String toString() {
     return 'Book{id: $id, name: $name, price: $price}';
